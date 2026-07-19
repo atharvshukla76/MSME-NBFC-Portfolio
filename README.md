@@ -87,3 +87,16 @@ Make sure you have the following installed:
 1. Double-click the `MSME NBFC portfolio.pbix` file.
 2. Click **Refresh** in the top menu to sync the dashboard with the newly generated CSV.
 3. Import the custom background image `bg_realistic_office_1784306906819.png` in the Canvas Background settings at 0% transparency if it is not already loaded.
+
+---
+
+## 👨‍💻 Author
+
+**Atharv Shukla**  
+*Data Analyst & Credit Risk Specialist*
+
+Passionate about transforming complex financial and operational data into interactive, decision-ready business intelligence. Specializing in banking analytics, portfolio health metrics (PAR/NPA modeling), and building automated data pipelines from Python-based simulations to Power BI visualization.
+
+*   **GitHub:** [@atharvshukla76](https://github.com/atharvshukla76)
+*   **LinkedIn:** [linkedin.com/in/atharvshukla](https://linkedin.com/in/atharvshukla76) *(Please update with your actual link if needed!)*
+
