@@ -30,6 +30,36 @@ The dashboard provides executives and risk managers with critical insights into 
 
 ---
 
+## 🖥️ Dashboard Page Previews
+
+Here is the completed 4-page interactive dashboard:
+
+### Page 1: Portfolio Overview (Executive Summary)
+*Provides a high-level summary of exposure, disbursements, average ticket sizes, and threshold alerts for executive leadership.*
+<div align="center">
+  <img src="images/page1_overview.png" alt="Portfolio Overview Page" width="100%">
+</div>
+
+### Page 2: Risk Segmentation & Early Warning
+*Breaks down risk status across different segments using a 100% stacked bar chart and tracks status migration using a waterfall chart.*
+<div align="center">
+  <img src="images/page2_segmentation.png" alt="Risk Segmentation Page" width="100%">
+</div>
+
+### Page 3: Concentration Risk Profile
+*Visualizes exposure concentration across sectors and regions using a treemap, and tracks segment size vs. risk correlation using a scatter plot.*
+<div align="center">
+  <img src="images/page3_concentration.png" alt="Concentration Risk Page" width="100%">
+</div>
+
+### Page 4: Vintage Cohort Analysis
+*Shows vintage loss curves to compare default trends of different cohorts at identical points in their lifecycle (Months on Book).*
+<div align="center">
+  <img src="images/page4_vintage.png" alt="Vintage Analysis Page" width="100%">
+</div>
+
+---
+
 ## 🛠️ Tech Stack & Architecture
 
 *   **Data Engineering:** `Python` (`pandas`, `numpy`) inside Jupyter Notebooks.
