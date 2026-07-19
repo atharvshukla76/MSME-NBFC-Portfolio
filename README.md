@@ -128,5 +128,5 @@ Make sure you have the following installed:
 Passionate about transforming complex financial and operational data into interactive, decision-ready business intelligence. Focused on banking analytics, portfolio health metrics (PAR/NPA modeling), and building automated data pipelines from Python-based simulations to Power BI visualization.
 
 *   **GitHub:** [@atharvshukla76](https://github.com/atharvshukla76)
-*   **LinkedIn:** [linkedin.com/in/atharvshukla](https://linkedin.com/in/atharvshukla76) *(Please update with your actual link if needed!)*
+*   **LinkedIn:** [linkedin.com/in/atharvshukla](https://www.linkedin.com/in/atharv-shukla-8b4426298/) 
 
